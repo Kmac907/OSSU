@@ -10,9 +10,12 @@ My course status and completion dates are maintained in the [OSSU progress sprea
 
 Current focus: [*Python Crash Course*](python_crash_course/).
 
-## CS Prep Courses
+## Study Plan
 
-The following courses make up my current study plan. This list follows the **CS Prep** page of my progress spreadsheet.
+The course list follows the **CS Prep** page of my progress spreadsheet.
+
+<details>
+<summary>View all 38 courses</summary>
 
 ### Intro to CS
 
@@ -81,3 +84,5 @@ The following courses make up my current study plan. This list follows the **CS 
 
 - Cloud Computing Specialization
 - Internet of Things and AI Cloud Specialization
+
+</details>
