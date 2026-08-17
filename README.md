@@ -1,10 +1,18 @@
 # OSSU Computer Science
 
-This repository contains my notes, exercises, and projects as I work through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science).
+This repository documents my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science), a self-directed path through the fundamentals of computer science.
 
-I track my course progress in this [OSSU progress spreadsheet](https://docs.google.com/spreadsheets/d/1pmQ-1860JF_9jZH9_kaY73KgMa9rextMMODXVJVF0uM/edit?usp=sharing).
+It contains the exercises, notes, and projects I complete along the way. My goal is to build a strong foundation in programming, mathematics, computer systems, theory, and software development.
+
+## Progress
+
+My course status and completion dates are maintained in the [OSSU progress spreadsheet](https://docs.google.com/spreadsheets/d/1pmQ-1860JF_9jZH9_kaY73KgMa9rextMMODXVJVF0uM/edit?usp=sharing).
+
+Current focus: [*Python Crash Course*](python_crash_course/).
 
 ## CS Prep Courses
+
+The following courses make up my current study plan. This list follows the **CS Prep** page of my progress spreadsheet.
 
 ### Intro to CS
 
@@ -73,7 +81,3 @@ I track my course progress in this [OSSU progress spreadsheet](https://docs.goog
 
 - Cloud Computing Specialization
 - Internet of Things and AI Cloud Specialization
-
-## Contents
-
-- `python_crash_course/` - Exercises from *Python Crash Course*.
