@@ -4,3 +4,11 @@ and then use min() and max() to make sure your list actually starts at one and
 ends at one million. Also, use the sum() function to see how quickly Python can
 add a million numbers.
 """
+
+num = list(range(1,1000001))
+
+# print(num)
+print(f"List starts at {min(num)}")
+print(f"List ends at {max(num)}")
+
+print(sum(num))
